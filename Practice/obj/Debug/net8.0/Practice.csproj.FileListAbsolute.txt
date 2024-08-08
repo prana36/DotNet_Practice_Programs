@@ -1,0 +1,14 @@
+N:\DotNet Workspace\DotNet_Practice_Programs\Practice\bin\Debug\net8.0\Practice.exe
+N:\DotNet Workspace\DotNet_Practice_Programs\Practice\bin\Debug\net8.0\Practice.deps.json
+N:\DotNet Workspace\DotNet_Practice_Programs\Practice\bin\Debug\net8.0\Practice.runtimeconfig.json
+N:\DotNet Workspace\DotNet_Practice_Programs\Practice\bin\Debug\net8.0\Practice.dll
+N:\DotNet Workspace\DotNet_Practice_Programs\Practice\bin\Debug\net8.0\Practice.pdb
+N:\DotNet Workspace\DotNet_Practice_Programs\Practice\obj\Debug\net8.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+N:\DotNet Workspace\DotNet_Practice_Programs\Practice\obj\Debug\net8.0\Practice.AssemblyInfoInputs.cache
+N:\DotNet Workspace\DotNet_Practice_Programs\Practice\obj\Debug\net8.0\Practice.AssemblyInfo.cs
+N:\DotNet Workspace\DotNet_Practice_Programs\Practice\obj\Debug\net8.0\Practice.csproj.CoreCompileInputs.cache
+N:\DotNet Workspace\DotNet_Practice_Programs\Practice\obj\Debug\net8.0\Practice.dll
+N:\DotNet Workspace\DotNet_Practice_Programs\Practice\obj\Debug\net8.0\refint\Practice.dll
+N:\DotNet Workspace\DotNet_Practice_Programs\Practice\obj\Debug\net8.0\Practice.pdb
+N:\DotNet Workspace\DotNet_Practice_Programs\Practice\obj\Debug\net8.0\Practice.genruntimeconfig.cache
+N:\DotNet Workspace\DotNet_Practice_Programs\Practice\obj\Debug\net8.0\ref\Practice.dll
